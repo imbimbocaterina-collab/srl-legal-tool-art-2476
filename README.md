@@ -1,7 +1,7 @@
 # S.r.l.Legal Tool - Automated Privacy and Trade Secret Redaction
 Legal Background
 
-Under Art. 2476(2) c.c., non-managing shareholders of an Italian Limited Liability Company (società a responsabilità limitata – S.r.l.) have a broad right to inspect corporate books and administrative documents. Because the Civil Code does not restrict which administrative records fall within this right, corporate minutes, contracts, and correspondence frequently contain two categories of legally protected information:
+Under art. 2476 c.c., non-managing shareholders of an Italian Limited Liability Company (società a responsabilità limitata – S.r.l.) have a broad right to inspect corporate books and administrative documents. Because the Civil Code does not restrict which administrative records fall within this right, corporate minutes, contracts, and correspondence frequently contain two categories of legally protected information:
 
 Personal Data (GDPR, Reg. (EU) 2016/679, Arts. 4–5): Tax identification numbers (Codice Fiscale), IBANs and individual monetary figures relating to directors, shareholders, or third parties.
 
