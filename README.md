@@ -3,7 +3,7 @@ Legal Background
 
 Under Art. 2476(2) c.c., non-managing shareholders of an Italian Limited Liability Company (società a responsabilità limitata – S.r.l.) have a broad right to inspect corporate books and administrative documents. Because the Civil Code does not restrict which administrative records fall within this right, corporate minutes, contracts, and correspondence frequently contain two categories of legally protected information:
 
-Personal Data (GDPR, Reg. (EU) 2016/679, Arts. 4–5): Tax identification numbers (Codice Fiscale), IBANs, and individual monetary figures relating to directors, shareholders, or third parties.
+Personal Data (GDPR, Reg. (EU) 2016/679, Arts. 4–5): Tax identification numbers (Codice Fiscale), IBANs and individual monetary figures relating to directors, shareholders, or third parties.
 
 Trade Secrets (D.Lgs. 63/2018 & Directive (EU) 2016/943): Commercially sensitive information such as patent identifiers, pricing models, strategic projects, and supplier/partner agreements.
 
@@ -11,7 +11,7 @@ This tool provides a two-tier redaction pipeline that sanitizes documents before
 
 How It Works
 
-The script (legal_tool.py) uses only the Python Standard Library (os and re) and executes a four-stage workflow:
+The script uses only the Python Standard Library (os and re) and executes a four-stage workflow:
 
 Flexible Document Ingestion (interface):
 
